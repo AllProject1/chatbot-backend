@@ -4,3 +4,4 @@ sentence-transformers==2.2.2
 scikit-learn==1.1.2
 nltk==3.7
 gunicorn
+cython==0.29.24  # Add Cython
